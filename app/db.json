@@ -1,0 +1,142 @@
+{
+  "users": [
+    {
+      "id": "c39a",
+      "name": "Дмитрий",
+      "phone": "12345678912",
+      "email": "chekalin45146@yandex.ru"
+    },
+    {
+      "id": "b7da",
+      "name": "Дмитрий1",
+      "phone": "90561523116",
+      "email": "chekalin45146@yandex.ru"
+    },
+    {
+      "id": "4936",
+      "name": "Дмитрий",
+      "phone": "12345678912",
+      "email": "chekalin45146@yandex.ru"
+    },
+    {
+      "id": "8497",
+      "name": "Дмитрий",
+      "phone": "90561523112",
+      "email": "chekalin45146@yandex.ru"
+    },
+    {
+      "id": "41eb",
+      "name": "Дмитрий",
+      "phone": "12345678912",
+      "email": "chekalin45146@yandex.ru"
+    },
+    {
+      "id": "3a8a",
+      "name": "Дмитрий",
+      "phone": "90561523111",
+      "email": "chekalin45146@yandex.ru"
+    }
+  ],
+  "courses": [
+    {
+      "id": "1",
+      "title": "JavaScript для начинающих",
+      "shortDescription": "Изучите основы JavaScript.",
+      "duration": "2 месяца",
+      "level": "Начальный",
+      "price": 15000,
+      "image": "/imagesVuePage/1.avif",
+      "showDetails": false
+    },
+    {
+      "id": "2",
+      "title": "Python для продвинутых",
+      "shortDescription": "Продвинутые техники на Python.",
+      "duration": "3 месяца",
+      "level": "Продвинутый",
+      "price": 20000,
+      "image": "/imagesVuePage/2.avif",
+      "showDetails": false
+    },
+    {
+      "id": "3",
+      "title": "React и Redux",
+      "shortDescription": "Создание современных веб-приложений.",
+      "duration": "2.5 месяца",
+      "level": "Средний",
+      "price": 18000,
+      "image": "/imagesVuePage/3.avif",
+      "showDetails": false
+    },
+    {
+      "id": "4",
+      "title": "DevOps для начинающих",
+      "shortDescription": "Основы DevOps и CI/CD.",
+      "duration": "2 месяца",
+      "level": "Начальный",
+      "price": 17000,
+      "image": "/imagesVuePage/4.avif",
+      "showDetails": false
+    },
+    {
+      "id": "5",
+      "title": "Машинное обучение",
+      "shortDescription": "Введение в машинное обучение.",
+      "duration": "4 месяца",
+      "level": "Продвинутый",
+      "price": 25000,
+      "image": "/imagesVuePage/5.avif",
+      "showDetails": false
+    },
+    {
+      "id": "6",
+      "title": "Веб-дизайн",
+      "shortDescription": "Создание современных интерфейсов.",
+      "duration": "2 месяца",
+      "level": "Начальный",
+      "price": 12000,
+      "image": "/imagesVuePage/6.avif",
+      "showDetails": false
+    },
+    {
+      "id": "7",
+      "title": "Базы данных",
+      "shortDescription": "Работа с SQL и NoSQL.",
+      "duration": "2.5 месяца",
+      "level": "Средний",
+      "price": 16000,
+      "image": "/imagesVuePage/7.avif",
+      "showDetails": false
+    },
+    {
+      "id": "8",
+      "title": "Мобильная разработка",
+      "shortDescription": "Создание приложений для iOS и Android.",
+      "duration": "3 месяца",
+      "level": "Продвинутый",
+      "price": 22000,
+      "image": "/imagesVuePage/8.avif",
+      "showDetails": false
+    },
+    {
+      "id": "9",
+      "title": "Кибербезопасность",
+      "shortDescription": "Основы защиты данных.",
+      "duration": "2 месяца",
+      "level": "Средний",
+      "price": 19000,
+      "image": "/imagesVuePage/9.avif",
+      "showDetails": false
+    },
+    {
+      "id": "10",
+      "title": "Blockchain",
+      "shortDescription": "Введение в технологию блокчейн.",
+      "duration": "3 месяца",
+      "level": "Продвинутый",
+      "price": 23000,
+      "image": "/imagesVuePage/10.avif",
+      "showDetails": false
+    }
+  ]
+}
